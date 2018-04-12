@@ -1,0 +1,10 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Deprecation" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="IGNORE_ABSTRACT_DEPRECATED_OVERRIDES" value="false" />
+      <option name="IGNORE_IMPORT_STATEMENTS" value="false" />
+      <option name="IGNORE_METHODS_OF_DEPRECATED" value="false" />
+    </inspection_tool>
+  </profile>
+</component>
